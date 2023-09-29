@@ -668,4 +668,4 @@ import React from 'react'
 
   )
 }
-export default page
+export default page;
