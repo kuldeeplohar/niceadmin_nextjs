@@ -1,6 +1,6 @@
 import React from 'react'
 
-export default function page() {
+ function page() {
   return (
     <div>
         <header id="header" className="header fixed-top d-flex align-items-center">
@@ -545,3 +545,4 @@ export default function page() {
     </div>
   )
 }
+export default page
